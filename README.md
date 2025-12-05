@@ -1,5 +1,5 @@
 # SafeMind
-# #🧠 Suicide Thought Prediction Model  
+#🧠 Suicide Thought Prediction Model  
 ### *Machine Learning Workflow using Social Media Messages*
 
 This document outlines the complete ML workflow used to build a **Suicide Thought Prediction Model** that analyzes social media messages to detect early signs of suicidal ideation.  
